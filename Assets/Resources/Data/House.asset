@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e70b400bcc074da3b1345058d34b451c, type: 3}
+  m_Name: House
+  m_EditorClassIdentifier: 
+  Name: House
+  Description: This is a house.
+  Thumbnail: {fileID: 21300000, guid: 726606722e0500a4c9464ed93a94af85, type: 3}
+  Model: {fileID: 6334485346882197562, guid: 1e0dc02f5be51224b96ae427cba8438f, type: 3}
+  BuildCost: 10
+  MaintenanceCostPerTurn: 5
+  Population: 5
+  Jobs: 3
+  FoodProduction: 2
+  EnergyProduction: 2
+  HappinessBonus: 5
+  Upgrades: []

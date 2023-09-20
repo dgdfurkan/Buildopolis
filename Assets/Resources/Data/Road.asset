@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e70b400bcc074da3b1345058d34b451c, type: 3}
+  m_Name: Road
+  m_EditorClassIdentifier: 
+  Name: Road
+  Description: One way or another
+  Thumbnail: {fileID: 21300000, guid: 290bce30228decb489ab34b04b0b416e, type: 3}
+  Model: {fileID: 5257434462797930065, guid: b12c91493e9b32849a7cbd0f17ee615f, type: 3}
+  BuildCost: 5
+  MaintenanceCostPerTurn: 3
+  Population: 1
+  Jobs: 1
+  FoodProduction: 0
+  EnergyProduction: 0
+  HappinessBonus: 2
+  Upgrades: []
